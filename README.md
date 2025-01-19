@@ -1,0 +1,1 @@
+This repository contains examples demonstrating the issue with Perl's hash iteration order and a solution to ensure consistent iteration.
